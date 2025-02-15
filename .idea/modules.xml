@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividad1/Actividad1.iml" filepath="$PROJECT_DIR$/Actividad1/Actividad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad2/Actividad2.iml" filepath="$PROJECT_DIR$/Actividad2/Actividad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad3/Actividad3.iml" filepath="$PROJECT_DIR$/Actividad3/Actividad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter_Composicion/Adapter_Composicion.iml" filepath="$PROJECT_DIR$/Adapter_Composicion/Adapter_Composicion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter_Herencia/Adapter_Herencia.iml" filepath="$PROJECT_DIR$/Adapter_Herencia/Adapter_Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interprete/Interprete.iml" filepath="$PROJECT_DIR$/Interprete/Interprete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVC/MVC.iml" filepath="$PROJECT_DIR$/MVC/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observador/Observador.iml" filepath="$PROJECT_DIR$/Observador/Observador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orden/Orden.iml" filepath="$PROJECT_DIR$/Orden/Orden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReutilizacionClases.iml" filepath="$PROJECT_DIR$/.idea/ReutilizacionClases.iml" />
+    </modules>
+  </component>
+</project>
